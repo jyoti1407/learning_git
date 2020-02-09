@@ -1,4 +1,5 @@
 2 i 
 3 am 
 5 human 
-6 not robot
+6 not robot 
+7 china
